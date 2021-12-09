@@ -73,15 +73,15 @@ public class LogInPage extends BasePage {
     }
 
     public String setInvalidFormattedEmailAdress(){
-        return "mustafakkcomosd" ;
+        return "kubraerkkcomosd" ;
     }
 
     public String setInvalidEmailAdress(){
-        return "mustafaksu4545@gmail.com" ;
+        return "kubrasaglam5@gmail.com" ;
     }
 
     public String setInvalidPassword(){
-        return "mustafa113";
+        return "kubra457";
     }
 
     public static By getEmail() {
